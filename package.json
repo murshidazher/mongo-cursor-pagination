@@ -42,7 +42,7 @@
     "lint-staged": "13.3.0",
     "mongodb": "6.8.0",
     "mongodb-memory-server": "8.14.0",
-    "ts-jest": "29.1.1",
+    "ts-jest": "29.2.5",
     "tsdx": "0.14.1",
     "tslib": "2.6.3",
     "typescript": "5.1.6"
